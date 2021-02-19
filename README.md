@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on IsMyShop
-- 🌱 I’m currently learning Cryptomoney
-- ⚡ Fun fact: They almost called me Maxime
+- 🔭 Je développe actuellement IsMyShop
+- 🌱 Je m'intéresse actuellement sur la Cryptomonnaie
+- ⚡ Fun fact: Ma mère voulait m'appeller Maxime
