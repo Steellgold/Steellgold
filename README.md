@@ -8,4 +8,5 @@ I have a little sadness on github because i have a GitHub account from 2015 that
 PHP 🐘 developer, moderately good in JavaScript 📒
 And never take out these projects if laziness is involved 😴
 
-https://discord.com/users/504392983244832780
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780
+                            )](https://discord.com/users/504392983244832780)
