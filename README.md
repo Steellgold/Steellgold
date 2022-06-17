@@ -1,4 +1,4 @@
-### Hi there! 
+### Hi there :wave:
 
 Gaëtan 17 years old and I was born in october because I don't know, currently in 1rst Bac Pro in the Digital Systems field
 
