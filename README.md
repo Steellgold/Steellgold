@@ -2,8 +2,6 @@
 
 Gaëtan 17 years old, and I'm currently in 1rst Bac Pro in the Digital Systems field
 
-[Version Française](https://github.com/Steellgold/Steellgold/FR_README.md)
-
 Big or small, a project deserves a description, slide down for my repository!
 
 **__Actives projects__**:
@@ -22,6 +20,8 @@ Big or small, a project deserves a description, slide down for my repository!
 
 I will resume these projects when IsMyStore will be released
 * 📁 PluginBuilder: Plugin builder for PocketMine-MP without having any knowledge in development
+
+[Cliquer ici, pour accéder à la version Française du README](https://github.com/Steellgold/Steellgold/FR_README.md)
 
 ---
 
