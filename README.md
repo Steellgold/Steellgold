@@ -21,7 +21,7 @@ Big or small, a project deserves a description, slide down for my repository!
 I will resume these projects when IsMyStore will be released
 * 📁 PluginBuilder: Plugin builder for PocketMine-MP without having any knowledge in development
 
-[Cliquer ici, pour accéder à la version Française du README](https://github.com/Steellgold/Steellgold/FR_README.md)
+[Cliquer ici, pour accéder à la version Française du README](https://github.com/Steellgold/Steellgold/blob/main/FR_README.md)
 
 ---
 
