@@ -21,6 +21,8 @@ Big or small, a project deserves a description, slide down for my repository!
 I will resume these projects when IsMyStore will be released
 * 📁 PluginBuilder: Plugin builder for PocketMine-MP without having any knowledge in development
 
+[Version Française]()
+
 ---
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780
