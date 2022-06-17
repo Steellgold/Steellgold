@@ -2,6 +2,8 @@
 
 Gaëtan 17 years old, and I'm currently in 1rst Bac Pro in the Digital Systems field
 
+Big or small, a project deserves a description, slide down for my repository!
+
 **__Actives projects__**:
 * 💰 [IsMyStore](https://github.com/isMyStore): Website on which you can sell digital files **(Since 2019)**
    * It's a project that is very close to my heart because it's my first big project outside of Minecraft, and it's also my high school project because it can motivate me to finish it, because I never managed to finish it because each time something didn't please me and I started again
