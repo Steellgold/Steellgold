@@ -4,6 +4,27 @@ Gaëtan 17 years old, and I'm currently in 1rst Bac Pro in the Digital Systems f
 
 Big or small, a project deserves a description, slide down for my repository!
 
+<p align="center">  
+  <a href="https://twitter.com/Steellgold">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="" />
+  </a>
+  <a href="https://instagram.com/steellgold">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="" />
+  </a>
+  <a href="https://discord.com/users/504392983244832780">
+    <img src="https://skillicons.dev/icons?i=discord" alt="" />
+  </a>
+  <a href="https://youtube.com/c/Steellgold">
+    <img src="https://www.shareicon.net/data/48x48/2015/09/30/109355_media_512x512.png" alt="YouTube" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=github" alt="" />
+  </a>
+  <a href="https://stackoverflow.com/users/9439076/steellgold">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="" />
+  </a>
+</p>
+
 **__Actives projects__**:
 * 💰 [IsMyStore](https://github.com/isMyStore): Website on which you can sell digital files **(Since 2019)**
    * It's a project that is very close to my heart because it's my first big project outside of Minecraft, and it's also my high school project because it can motivate me to finish it, because I never managed to finish it because each time something didn't please me and I started again
@@ -24,6 +45,6 @@ I will resume these projects when IsMyStore will be released
 [Cliquer ici, pour accéder à la version Française du README](https://github.com/Steellgold/Steellgold/blob/main/FR_README.md)
 
 ---
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780
-                            )](https://discord.com/users/504392983244832780)
+| Discord Status  | I use these languages / frameworks  |
+| :-: | :-: |
+| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,symfony,html,css,js,ts&perline=3)](https://skillicons.dev) |
