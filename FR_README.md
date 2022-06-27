@@ -2,6 +2,27 @@
 
 Gaëtan 17 ans, et je suis en 1ère Baccalauréat Professionel Système Numérique
 
+<p align="center">  
+  <a href="https://twitter.com/Steellgold">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="" />
+  </a>
+  <a href="https://instagram.com/steellgold">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="" />
+  </a>
+  <a href="https://discord.com/users/504392983244832780">
+    <img src="https://skillicons.dev/icons?i=discord" alt="" />
+  </a>
+  <a href="https://youtube.com/c/Steellgold">
+    <img src="https://www.shareicon.net/data/48x48/2015/09/30/109355_media_512x512.png" alt="YouTube" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=github" alt="" />
+  </a>
+  <a href="https://stackoverflow.com/users/9439076/steellgold">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="" />
+  </a>
+</p>
+
 **__Projets en cours__**:
 * 💰 [IsMyStore](https://github.com/isMyStore): Site web sur lequel vous pouvez vendre des fichiers numériques **(Depuis 2019)**
    * C'est un projet qui me tient à cœur parce que c'est mon premier grand projet en dehors de Minecraft, et c'est aussi mon projet pour mon diplôme qui peut me motiver à le terminer, car je n'ai jamais réussi à le terminer parce qu'à chaque fois quelque chose ne me plaisait pas et je recommençais.
@@ -22,6 +43,6 @@ Je reprendrais surement ces projets lors ce que IsMyStore sera sorti
 Si vous voulez me contacter pour une demande particulière, une demande de développement d'un plugin, ou autre chose voici mon adresse email: [pro@steellgold.fr](mailto:pro@steellgold.fr)
 
 ---
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780
-                            )](https://discord.com/users/504392983244832780)
+| Statut actuel Discord  | J'utilise ces langages / frameworks  |
+| :-: | :-: |
+| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,symfony,html,css,js,ts&perline=3)](https://skillicons.dev) |
