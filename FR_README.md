@@ -38,9 +38,6 @@ Gaëtan 17 ans, et je suis en 1ère Baccalauréat Professionel Système Numériq
    * 😪 Après tant d'efforts, il m'a fallu 2 semaines pour reprendre le développement de IsMyStore afin de le terminer dans les mois qui suivent, mais aucunes "envi" n'est sorti de moi, il sera finalisé mais uniquement pour ma présentation orale du baccalauréat ! donc vous l'avez compris le projet ne sera pas diffusé publiquement. Désolé (pour ceux qui l'attendaient, et pour moi-même)
    * ~~C'est un projet qui me tient à cœur parce que c'est mon premier grand projet en dehors de Minecraft, et c'est aussi mon projet pour mon diplôme qui peut me motiver à le terminer, car je n'ai jamais réussi à le terminer parce qu'à chaque fois quelque chose ne me plaisait pas et je recommençais~~
 
-Je reprendrais surement ces projets lors ce que IsMyStore sera sorti
-* 📁 PluginBuilder: Plugin builder pour PocketMine-MP sans avoir de connaissances dans le développement
-
 Si vous voulez me contacter pour une demande particulière, une demande de développement d'un plugin, ou autre chose voici mon adresse email: [pro@steellgold.fr](mailto:pro@steellgold.fr)
 
 ---
