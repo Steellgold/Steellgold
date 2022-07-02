@@ -40,9 +40,6 @@ Big or small, a project deserves a description, slide down for my repository!
    * 😪 After so much effort, it took me 2 weeks to resume the development of IsMyStore to finish it in the following months, but no "envi" will be released, it will be finalized but only for my oral presentation of the baccalaureate! so you understood it the project will not be released publicly. Sorry (for those who were waiting for it, and to myself)
    * ~~It's a project that is very close to my heart because it's my first big project outside of Minecraft, and it's also my high school project because it can motivate me to finish it, because I never managed to finish it because each time something didn't please me and I started again~~
 
-I will resume these projects when IsMyStore will be released
-* 📁 PluginBuilder: Plugin builder for PocketMine-MP without having any knowledge in development
-
 [Cliquer ici, pour accéder à la version Française du README](https://github.com/Steellgold/Steellgold/blob/main/FR_README.md)
 
 ---
