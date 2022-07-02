@@ -36,9 +36,9 @@ Big or small, a project deserves a description, slide down for my repository!
 **__Previous projects__**: 
 * ⚔️ Atlas: Minecraft Bedrock Edition practice server with different game modes, developers during all its first version! **(2019-2020)**
    * I owe everything to this project, as well as to the person who invited me. At the beginning I was only supposed to be a developer during a party to help! and I was quickly invited as a developer, and 1 week almost just after manager, having carte-blanche to manage the server which became several big, the code does not reflect the quality of the server, the code is disgusting for sure, but everything has a beginning, and. . an end, this project was my very first big project for 1 year at least I developed a server, I played on it, I added what I liked to make it like other people. It was a crazy experience that taught me things I wouldn't have known today without Atlas. Thanks Calco for trusting me, and thanks [Red](https://github.com/RedTv-Developpement) for the invitation!
-* 💰 [IsMyStore](https://github.com/isMyStore): Website on which you can sell digital files **(Since 2019)**
+* 💰 [IsMyStore](https://github.com/isMyStore): Website on which you can sell digital files **(2019-2022)**
    * 😪 After so much effort, it took me 2 weeks to resume the development of IsMyStore to finish it in the following months, but no "envi" will be released, it will be finalized but only for my oral presentation of the baccalaureate! so you understood it the project will not be released publicly. Sorry (for those who were waiting for it, and to myself)
-   * It's a project that is very close to my heart because it's my first big project outside of Minecraft, and it's also my high school project because it can motivate me to finish it, because I never managed to finish it because each time something didn't please me and I started again
+   * ~~It's a project that is very close to my heart because it's my first big project outside of Minecraft, and it's also my high school project because it can motivate me to finish it, because I never managed to finish it because each time something didn't please me and I started again~~
 
 I will resume these projects when IsMyStore will be released
 * 📁 PluginBuilder: Plugin builder for PocketMine-MP without having any knowledge in development
