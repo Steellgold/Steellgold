@@ -43,6 +43,6 @@ Big or small, a project deserves a description, slide down for my repository!
 [Cliquer ici, pour accéder à la version Française du README](https://github.com/Steellgold/Steellgold/blob/main/FR_README.md)
 
 ---
-| Discord Status  | I use these languages / frameworks  |
-| :-: | :-: |
-| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,symfony,html,css,js,ts&perline=3)](https://skillicons.dev) |
+| Discord Status  | I use these languages  | Others  |
+| -- | -- | -- |
+| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,html,css,js,ts&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,linux&perline=3)](https://skillicons.dev) |
