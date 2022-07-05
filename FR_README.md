@@ -41,6 +41,6 @@ Gaëtan 17 ans, et je suis en 1ère Baccalauréat Professionel Système Numériq
 Si vous voulez me contacter pour une demande particulière, une demande de développement d'un plugin, ou autre chose voici mon adresse email: [pro@steellgold.fr](mailto:pro@steellgold.fr)
 
 ---
-| Statut actuel Discord  | J'utilise ces langages / frameworks  |
-| :-: | :-: |
-| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,symfony,html,css,js,ts&perline=3)](https://skillicons.dev) |
+| Profil Discord  | I use these languages  | Others  |
+| -- | -- | -- |
+| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,html,css,js,ts&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,linux&perline=3)](https://skillicons.dev) |
