@@ -27,11 +27,6 @@ Big or small, a project deserves a description, slide down for my repository!
 
 **__Actives projects__**: (click for describe)
  <details>
-      <summary>🌍 <a href="https://github.com/UniversesMCBE">Universes</a>: A coming soon project</summary>
-      When you have an idea, you have to follow it and see what happens at the end of the tunnel, Universes is a Minecraft: Bedrock Edition server, hence the type of server is still private for now. But it is a huge project that can not be done in a few months, I think it will take at least 1 year to release a beta, if I have a word to describe the server: Crazy.  
- </details>
-
- <details>
       <summary>🤖 <a href="https://github.com/TheRoxBot">Rox</a>: Robot Discord in JavaScript with more than 103k users, project abandoned in 2020 but rebooted in May 2022 with <a href="https://github.com/RomainSav">RomainSav</a> <strong>(2019-2020, restarted in May 2022)</strong></summary>
       Since I'm a developer especially in PHP, I rarely leave this comfort zone, Rox is one of my "desires" to get out and learn new things, especially after the stop of the bot I had no desire to touch JavaScript, but <a href="https://github.com/RomainSav">RomainSav</a> gave me back the desire, because he knows more than me, so I followed him to redesign the project but better! and in TypeScript this time :wink:
  </details>
