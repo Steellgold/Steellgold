@@ -54,9 +54,6 @@ Big or small, a project deserves a description, slide down for my repository!
       </details>
  </details>
 
---- 
-> ##### [Cliquer ici, pour accéder à la version Française du README](https://github.com/Steellgold/Steellgold/blob/main/FR_README.md)
-
 ---
 | Discord Status  | I use these languages  | Others  |
 | -- | -- | -- |
