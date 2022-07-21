@@ -57,4 +57,4 @@ Big or small, a project deserves a description, slide down for my repository!
 ---
 | Discord Status  | I use these languages  | Others  |
 | -- | -- | -- |
-| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,ts,js,java,html,css,java&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
+| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,ts,js,java,html,css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
