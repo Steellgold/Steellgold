@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Gaëtan 17 years old, and I am currently in the final year of a professional baccalaureate in the field of digital systems
+Gaëtan 18 years old, and I am currently in the final year of a professional baccalaureate in the field of digital systems
 
 Big or small, a project deserves a description, slide down for my repository!
 
