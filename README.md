@@ -10,5 +10,5 @@ Currently I'm creating a website called "Vendit" which allows to sell plugins on
 
 ---
 
-#### Check my projects on my [Website](https://steellgold.fr), preview:
+#### Check my projects on my [Website](https://steellgold.fr), or in my [old README](https://github.com/Steellgold/Steellgold/blob/main/OLD_README.md):
 ![image](https://user-images.githubusercontent.com/51505384/197396519-de19ddb1-0a4c-4d11-bfe4-737a51fc9d5e.png)
