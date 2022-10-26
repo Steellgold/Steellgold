@@ -10,7 +10,7 @@ Currently I'm creating a website called "Vendit" which allows to sell plugins on
 
 I am in a French developer community called "[Royaume](https://github.com/Virtual-Royaume)" on which I currently [participating](https://github.com/Virtual-Royaume/Royaume-Discord-Bot/issues?q=author%3ASteellgold) in the development of the Bot Discord.
 
-It's a community where we love to learn and use new technologies, this is where I decided to go in the path of web development learning Svelte and make my first site in Bootstrap or templates: [Portfolio](https://steellgold.fr) in [open-source](https://github.com/Steellgold/Portfolio)
+It's a community where we love to learn and use new technologies, this is where I decided to go in the path of web development learning Svelte and make my first site without Bootstrap or templates: [Portfolio](https://steellgold.fr) in [open-source](https://github.com/Steellgold/Portfolio)
 
 ---
 
