@@ -15,4 +15,5 @@ It's a community where we love to learn and use new technologies, this is where 
 ---
 
 #### Check my projects on my [Website](https://steellgold.fr), or in my [old README](https://github.com/Steellgold/Steellgold/blob/main/OLD_README.md):
-![image](https://user-images.githubusercontent.com/51505384/197396519-de19ddb1-0a4c-4d11-bfe4-737a51fc9d5e.png)
+![image](https://user-images.githubusercontent.com/51505384/214072217-8024db00-b64a-41ff-b1b9-e489c50f8f40.png)
+
