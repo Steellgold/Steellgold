@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #101522;
+  color: #101522;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.demo-page {
+  display: grid;
+  gap: 2rem;
+  min-height: 100vh;
+  padding: clamp(1rem, 4vw, 4rem);
+  place-content: center;
+}
+
+.hero-card {
+  aspect-ratio: 620 / 214;
+  background: #ffca5a;
+  border-radius: 1.4rem;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.28);
+  isolation: isolate;
+  overflow: hidden;
+  position: relative;
+  width: min(92vw, 920px);
+}
+
+.hero-card__binary {
+  inset: 0;
+  left: 46%;
+  width: 62%;
+  z-index: 0;
+}
+
+.hero-card__content {
+  display: grid;
+  inset: 0;
+  padding-inline: 10%;
+  place-content: center start;
+  position: absolute;
+  z-index: 1;
+}
+
+.hero-card h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(3rem, 8vw, 6.2rem);
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  line-height: 0.9;
+  margin: 0;
+}
+
+.hero-card p {
+  font-size: clamp(1rem, 2vw, 1.65rem);
+  font-weight: 800;
+  letter-spacing: 0.62em;
+  margin: 1.7rem 0 0 28%;
+}
+
+.direction-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.direction-grid article {
+  background: #ffca5a;
+  border-radius: 1rem;
+  min-height: 11rem;
+  overflow: hidden;
+  position: relative;
+}
+
+.direction-grid .binary-fade {
+  inset: 0;
+}
+
+.direction-grid span {
+  background: rgba(16, 21, 34, 0.84);
+  border-radius: 999px;
+  bottom: 0.75rem;
+  color: #fff;
+  font-size: 0.8rem;
+  left: 0.75rem;
+  padding: 0.35rem 0.7rem;
+  position: absolute;
+  z-index: 1;
+}
+
+@media (max-width: 760px) {
+  .direction-grid {
+    grid-template-columns: 1fr;
+  }
+}
